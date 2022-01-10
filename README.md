@@ -1,6 +1,6 @@
 # Dog-Vision
 
 
-## Dog Brred Identification
+## Dog Breed Identification
 
 https://www.kaggle.com/c/dog-breed-identification
